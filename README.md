@@ -1,4 +1,4 @@
-Alumno:Mesino Vega Edgar Said
+Alumno:Mesino Vega Edgar Said <br>
 Numero de control: 18520430
 
 Para instalar este proyecto debemos seguir los siguientes pasos:
